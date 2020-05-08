@@ -1,0 +1,13 @@
+{
+    "name": "cb3/cb-klaviyo",
+    "description": "Klaviyo API Integration",
+    "authors": [
+        {
+            "name": "James Monsarvas",
+            "email": "jamez.monsarvas@gmail.com"
+        }
+    ],
+    "require": {
+        "siro/php-klaviyo-api": "^1.4.0"
+    }
+}
